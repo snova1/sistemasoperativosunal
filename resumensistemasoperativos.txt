@@ -1,0 +1,5 @@
+Un sistema operatiivo es un conjunto de progarmas cuya función es facilitar la interacción del usuario con el hardware de la computadora, actuando como una interfaz. 
+Los sistemas operativos más comunes son Windows, Linux, y MAC OS, sin embargo Windows es el más popular debido a que muchas computadoras ya lo tienen instalado por defecto.
+Una de sus carácteristicas es que tienen la capacidad de evolucionar, pues la mayoría de sistemas operativos son creados para que se les puedan añadir más funciones sin alterar
+los servicios que este provee. El sistema operativo es también el encargado de administrar el hardware de la computadora, y distribuir los recursos de forma eficaz.
+Hay varios tipos de sistemas operativos, los multitareas son capaces de gestionar dos o más tareas a la vez, a diferencia de los monotarea que solo pueden manejar solo una tarea
